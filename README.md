@@ -16,9 +16,11 @@
 
 ## PROJETOS:
 
-https://06-ignite-call-certo.vercel.app/ projeto fullstack nextjs react
+projeto fullstack nextjs react
+https://06-ignite-call-certo.vercel.app/ 
 https://github.com/MiguelMontenegroo/06-ignite-call-certo
 
+Projeto fullstack 
 https://next-saas-rbac-e1wx.onrender.com/
 https://github.com/MiguelMontenegroo/next-saas-rbac
 
@@ -28,7 +30,8 @@ https://github.com/MiguelMontenegroo/05-nest-clean
 https://miguelmontenegroo.github.io/05-design-system/ 
 https://github.com/MiguelMontenegroo/05-design-system
 
-https://04-ignite-shop-certo-prd5.vercel.app/ - ecommerce com stripe react nextjs
+- ecommerce com stripe react nextjs
+https://04-ignite-shop-certo-prd5.vercel.app/ 
 https://github.com/MiguelMontenegroo/04-ignite-shop-certo
 
 java e spring boot fullstack
@@ -58,10 +61,12 @@ https://github.com/MiguelMontenegroo/timer
 https://coffe-delivery-gamma-teal.vercel.app/
 https://github.com/MiguelMontenegroo/coffe-delivery
 
-https://www.labeddit-miguel.surge.sh primeiro projeto fullstack
+primeiro projeto fullstack
+https://www.labeddit-miguel.surge.sh 
 github: front-end: https://github.com/MiguelMontenegroo/projeto-completo
 github: back-end: https://github.com/MiguelMontenegroo/projeto-completo-back
 
-https://www.pokedex-miguel.surge.sh/ primeiro projeto react
+primeiro projeto react
+https://www.pokedex-miguel.surge.sh/ 
 https://github.com/MiguelMontenegroo/projeto-react-apis
 
