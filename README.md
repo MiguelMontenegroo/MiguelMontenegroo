@@ -21,6 +21,7 @@ https://06-ignite-call-certo.vercel.app/
 https://github.com/MiguelMontenegroo/06-ignite-call-certo
 
 Projeto fullstack 
+https://next-saas-rbac-web-eta-ten.vercel.app/
 https://next-saas-rbac-e1wx.onrender.com/
 https://github.com/MiguelMontenegroo/next-saas-rbac
 
